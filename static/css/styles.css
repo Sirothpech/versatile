@@ -248,7 +248,8 @@ p {
 
 
 .cta-button {
-  display: inline-block;
+  width: 100px;
+  text-align: center;
   padding: 10px 20px;
   background-color: #007BFF; /* Couleur de fond du bouton (bleu, par exemple) */
   color: #FFFFFF; /* Couleur du texte du bouton (blanc) */
@@ -403,3 +404,4 @@ p {
   margin: 0 0 10px 0;
   text-align: center;
 }
+
