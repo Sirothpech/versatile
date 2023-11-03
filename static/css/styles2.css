@@ -133,7 +133,7 @@ footer {
 
 #intro::before {
   content: "";
-  background-image: url('static/images/mockup_index.png');
+  background-image: url('/static/images/mockup_index.png');
   background-size: cover;
   background-position: right center;
   opacity: 0.5; /* Réglez l'opacité souhaitée (0.5 signifie 50%) */
